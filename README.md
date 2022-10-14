@@ -4,7 +4,12 @@ Code to control my cabinet/desktop actuator project used with the Arduino IDE. D
 - Down
 - Memory position 1
 - Memory position 2
-- Save position
-- Automatic program (to move desk up/down every minutes)
+- Save current position to memory
+- Automatic program (to move desk up/down between memory positions every 60 minutes)
+
+Additional features:
+- Debugging output to OLED display
+- OLED animations hmoving up/down
+- Musical tones played on buzzer when moving to memory position (Harry Potter theme)
 
 DISCLAIMER: I have extremely limited coding experience, so use at your own risk.
