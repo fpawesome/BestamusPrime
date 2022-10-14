@@ -9,7 +9,7 @@ Code to control my cabinet/desktop actuator project used with the Arduino IDE. D
 
 Additional features:
 - Debugging output to OLED display
-- OLED animations hmoving up/down
+- OLED animations when moving up/down
 - Musical tones played on buzzer when moving to memory position (Harry Potter theme)
 
 DISCLAIMER: I have extremely limited coding experience, so use at your own risk.
